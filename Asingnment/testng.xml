@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="Automation Report">
+        <classes>
+            <class name="javaScripts.TC_CHKBOX_003"/>
+
+            <class name="javaScripts.TC_CONTMENU_004"/>
+
+            <class name="javaScripts.TC_DragNDrop_005"/>
+
+            <class name="javaScripts.TC_DROPDOWN_006"/>
+
+            <class name="javaScripts.TC_DYNAMICCONT_008"/>
+
+            <class name="javaScripts.TC_DYNAMICCONTENT_007"/>
+
+            <class name="javaScripts.TC_DYNMLOAD_009"/>
+
+            <class name="javaScripts.TC_FILEDOWNLOAD_12"/>
+
+            <class name="javaScripts.TC_FILEUPLOAD_011"/>
+
+            <class name="javaScripts.TC_FLOATINGMENU_012"/>
+
+            <class name="javaScripts.TC_JAVASCRIPTALERT_015"/>
+
+            <class name="javaScripts.TC_JSERROR_016"/>
+
+            <class name="javaScripts.TC_LGN_001"/>
+
+            <class name="javaScripts.TC_LGN_002"/>
+
+            <class name="javaScripts.TC_MOUSEHOVER_014"/>
+
+            <class name="javaScripts.TC_NESTEDFRAME_013"/>
+
+            <class name="javaScripts.TC_NOTIFICATIONMSG_018"/>
+
+            <class name="javaScripts.TC_OPENNEWTAB_017"/>
+
+        </classes>
+    </test>
+</suite>
